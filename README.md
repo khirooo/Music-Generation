@@ -1,2 +1,2 @@
 # Music-Generation
-Explore the use of neural networks (Rnn,Lstm,Gan) to generate music that appears to be human-made.
+In this project, our goal is to explore the use of neural networks to generate music that appears to be human-made. Specifically, we explore recurrent networks (RNNs), long-term memory networks ( LSTMs), and generative adversarial networks (GANs). The dataset used consists of 92 piano MIDI files from Final Fantasy. To load/create/modify these midi files, we use music21 (python library).
